@@ -1,6 +1,6 @@
 # DevQuest - HTML & CSS ⭐
 ## Quest - Pagina de exercicios módulos básicos
-### [Deploy](https://josuecosta2023.github.io/exercicioDeQuest-HTML-CSS-Basico/)
+### [Deploy](https://josuecosta2023.github.io/DevQuest-exercicios-HTML-CSS-Basico/index.html)
 
 # Desafio: Centralizar todos o sexercicios propóstos
 ## Objetivos:
